@@ -1,4 +1,3 @@
-# Akash_Gudipelli
 <!-- GitHub Profile README: Akash Gudipelli -->
 
 <h1 align="center">Hi 👋, I'm Akash Gudipelli</h1>
@@ -9,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=Akashgudipalli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:akashgudipalli0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akashgudipalli0@gmail.com-red" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-akashgudipalli0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -28,16 +27,15 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Java, Python, C/C++, SQL, HTML, CSS  
-- **Frameworks:** React.js, Flask, Spring Boot  
-- **Tools:** Git, VS Code, Azure, Figma, Adobe XD  
-- **Concepts:** OOP, REST APIs, Agile, CI/CD, ML, DSA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,flask,spring,git,github,vscode,figma,azure" alt="skills" />
+</p>
 
 ---
 
 ### 💼 Projects
 
-| Project | Description |
+| 🚀 Project | 📝 Description |
 |--------|-------------|
 | 🔗 [Crop Price Predictor](https://github.com/Akashgudipalli/crop-price-predictor) | ML + Flask app to predict future crop prices using weather data, boosting farmer planning |
 | 🔗 [Food Recipe Finder](https://github.com/Akashgudipalli/food-recipe) | React-based app using Edamam API to filter recipes by ingredients, calories, etc. |
@@ -48,12 +46,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akashgudipalli&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgudipalli&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akashgudipalli&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgudipalli&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashgudipalli&theme=tokyonight" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashgudipalli&theme=radical" />
 </p>
 
 ---
@@ -61,9 +59,15 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-gudipelli-93a6a91b3"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:akashgudipalli0@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" /></a>
-  <a href="https://github.com/Akashgudipalli"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/akash-gudipelli-93a6a91b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akashgudipalli0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Akashgudipalli">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
