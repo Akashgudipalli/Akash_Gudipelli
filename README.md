@@ -28,7 +28,20 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,flask,spring,git,github,vscode,figma,azure" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React.js" /> React.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" /> Flask &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" /> Spring Boot &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" /> VS Code &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" /> Figma &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Microsoft Azure" /> Azure
 </p>
 
 ---
@@ -75,3 +88,9 @@
 ⭐️ **Thanks for visiting my profile!**  
 If you like what I build, feel free to star a repo or connect!  
 Let's grow together 🚀
+
+   
+
+
+
+
